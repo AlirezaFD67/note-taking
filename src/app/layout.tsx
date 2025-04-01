@@ -1,5 +1,6 @@
 import { metadata } from "@app/lib/utils/meta";
 import Layout from "./layouts/Layout";
+import "./globals.css";
 
 export default function RootLayout({
   children,
