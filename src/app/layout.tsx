@@ -1,4 +1,4 @@
-import { metadata } from "@app/lib/utils/meta";
+import { metadata } from "@utils/meta";
 import Layout from "./layouts/Layout";
 import "./globals.css";
 
